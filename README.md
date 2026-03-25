@@ -8,15 +8,15 @@ help someone like me ship real software, and I haven't stopped since.
 
 ## What I build
 
-🏥 **Healthcare workflow tools** — instrument tracking, fault reporting, 
+**Healthcare workflow tools** — instrument tracking, fault reporting, 
 and operational tools used in a real sterile services department
 
-🧩 **Browser extensions** — ClipSnap, Fine Zoom, Send to Perplexity — 
+**Browser extensions** — ClipSnap, Fine Zoom, Send to Perplexity — 
 small tools that fix everyday annoyances
 
-🛠️ **Personal projects** — offline-first apps and whatever else 
+**Personal projects** — offline-first apps and whatever else 
 solves a problem I'm having
 
 ## Get in touch
 
-💼 [LinkedIn](https://linkedin.com/in/christianholmchristensen)
+[LinkedIn](https://linkedin.com/in/christianholmchristensen)
