@@ -17,10 +17,6 @@ small tools that fix everyday annoyances
 🛠️ **Personal projects** — offline-first apps and whatever else 
 solves a problem I'm having
 
-## Current focus
-
-Building my portfolio at [christianholm.dev](https://christianholm.dev) (coming soon).
-
 ## Get in touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+- 💼 [LinkedIn](https://linkedin.com/in/christianholmchristensen)
