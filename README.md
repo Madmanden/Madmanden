@@ -19,4 +19,4 @@ solves a problem I'm having
 
 ## Get in touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/christianholmchristensen)
+💼 [LinkedIn](https://linkedin.com/in/christianholmchristensen)
