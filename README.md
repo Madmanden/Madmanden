@@ -1,6 +1,6 @@
 # Christian Holm
 
-I work in healthcare operations in Copenhagen and build software for real operational problems. Most of my projects start with a workflow, constraint, or everyday frustration I understand firsthand — then turn it into something people can actually use.
+I work in healthcare operations in Copenhagen and build practical software for workflows I understand firsthand. That operator-to-builder loop is the common thread across my projects: spot a real constraint, ship a small solution, watch it in use, and improve it.
 
 **Portfolio:** [christianholmdev.dk](https://christianholmdev.dk)
 
