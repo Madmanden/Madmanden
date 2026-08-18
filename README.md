@@ -1,22 +1,28 @@
-# Hey, I'm Christian 👋
+# Christian Holm
 
-I work in healthcare operations in Copenhagen — and I build tools 
-to solve problems I actually run into.
+I work in healthcare operations in Copenhagen and build software for real operational problems. Most of my projects start with a workflow, constraint, or everyday frustration I understand firsthand — then turn it into something people can actually use.
 
-Not a traditional developer. I discovered AI coding tools could 
-help someone like me ship real software, and I haven't stopped since.
+**Portfolio:** [christianholmdev.dk](https://christianholmdev.dk)
+
+## Selected work
+
+- **[SterilFejl](https://christianholmdev.dk/projects/sterilfejl/)** — fault-reporting platform commissioned by department leadership for a sterile supply department of 50+ staff, with realtime status, notifications, offline reporting, and operational administration.
+- **[Instrumentskanner](https://github.com/Madmanden/iskanner-public)** — mobile PWA used for instrument-location lookup through camera OCR, Danish voice input, and part-number search.
+- **[PhotoCal](https://christianholmdev.dk/projects/photocal/)** — AI-assisted nutrition logging that combines model output with food databases, confirmed history, and personal calibration instead of treating estimates as ground truth.
+- **[Fine Zoom](https://github.com/Madmanden/fine-zoom)** — Manifest V3 browser extension for precise native, text-only, and CSS page zoom with per-site settings and automated tests.
 
 ## What I build
 
-**Healthcare workflow tools** — instrument tracking, fault reporting, 
-and operational tools used in a real sterile services department
+**Healthcare workflow software** — tools for instrument lookup, fault reporting, missing-instrument workflows, and operational visibility.
 
-**Browser extensions** — ClipSnap, Fine Zoom, Send to Perplexity — 
-small tools that fix everyday annoyances
+**AI-powered personal tools** — products where the hard part is not calling a model, but deciding what to trust, remember, correct, and automate.
 
-**Personal projects** — offline-first apps and whatever else 
-solves a problem I'm having
+**Browser utilities** — small extensions such as Fine Zoom, ClipSnap, and Send to Perplexity that remove everyday friction.
 
-## Get in touch
+## How I work
 
-[LinkedIn](https://linkedin.com/in/christianholmchristensen)
+I use AI coding tools extensively for exploration and implementation, but I keep the product decisions and verification explicit. I prefer problem-first systems, small deployable steps, tests around risky behavior, and enough operational visibility to understand what happens after software ships.
+
+## Contact
+
+The best place to see more work or get in touch is [christianholmdev.dk](https://christianholmdev.dk).
