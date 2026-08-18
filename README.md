@@ -9,7 +9,7 @@ I work in healthcare operations in Copenhagen and build software for real operat
 - **[SterilFejl](https://christianholmdev.dk/projects/sterilfejl/)** — fault-reporting platform commissioned by department leadership for a sterile supply department of 50+ staff, with realtime status, notifications, offline reporting, and operational administration.
 - **[Instrumentskanner](https://github.com/Madmanden/iskanner-public)** — mobile PWA used for instrument-location lookup through camera OCR, Danish voice input, and part-number search.
 - **[PhotoCal](https://christianholmdev.dk/projects/photocal/)** — AI-assisted nutrition logging that combines model output with food databases, confirmed history, and personal calibration instead of treating estimates as ground truth.
-- **[Fine Zoom](https://github.com/Madmanden/fine-zoom)** — Manifest V3 browser extension for precise native, text-only, and CSS page zoom with per-site settings and automated tests.
+- **[Indkøbsvogn](https://github.com/Madmanden/indkobsvogn)** — local-first shopping app that learns the route through each store, keeps household lists in sync, and remains useful offline during an active trip.
 
 ## What I build
 
