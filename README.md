@@ -7,15 +7,15 @@ I work in healthcare operations in Copenhagen and build software for real operat
 ## Selected work
 
 - **[SterilFejl](https://christianholmdev.dk/projects/sterilfejl/)** — fault-reporting platform commissioned by department leadership for a sterile supply department of 50+ staff, with realtime status, notifications, offline reporting, and operational administration.
-- **[Instrumentskanner](https://github.com/Madmanden/iskanner-public)** — mobile PWA used for instrument-location lookup through camera OCR, Danish voice input, and part-number search.
-- **[PhotoCal](https://christianholmdev.dk/projects/photocal/)** — AI-assisted nutrition logging that combines model output with food databases, confirmed history, and personal calibration instead of treating estimates as ground truth.
-- **[Indkøbsvogn](https://github.com/Madmanden/indkobsvogn)** — local-first shopping app that learns the route through each store, keeps household lists in sync, and remains useful offline during an active trip.
+- **[Instrumentskanner](https://christianholmdev.dk/projects/instrumentskanner/)** — mobile PWA used daily for instrument-location lookup through camera OCR, Danish voice input, and part-number search. ([public repo](https://github.com/Madmanden/iskanner-public))
+- **[PhotoCal](https://christianholmdev.dk/projects/photocal/)** — AI-assisted nutrition logging used daily by my family and me, combining model output with stronger evidence, confirmed history, and personal calibration.
+- **[Indkøbsvogn](https://christianholmdev.dk/projects/indkobsvogn/)** — local-first shopping app that learns each store route, keeps household data in sync, and remains useful offline during an active trip. ([public repo](https://github.com/Madmanden/indkobsvogn))
 
 ## What I build
 
 **Healthcare workflow software** — tools for instrument lookup, fault reporting, missing-instrument workflows, and operational visibility.
 
-**AI-powered personal tools** — products where the hard part is not calling a model, but deciding what to trust, remember, correct, and automate.
+**Personal products** — local-first and AI-assisted applications built around recurring problems at home, with the same focus on reliability, feedback, and real use.
 
 **Browser utilities** — small extensions such as Fine Zoom, ClipSnap, and Send to Perplexity that remove everyday friction.
 
