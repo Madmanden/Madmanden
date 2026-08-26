@@ -1,6 +1,6 @@
 # Christian Holm
 
-I work in healthcare operations in Copenhagen and build practical software for workflows I understand firsthand. That operator-to-builder loop is the common thread across my projects: spot a real constraint, ship a small solution, watch it in use, and improve it.
+I work in healthcare operations in Copenhagen and build practical digital tools around workflows I understand firsthand. That operator-to-builder loop is the common thread across my projects: spot a real constraint, build a focused solution, watch it in use, and improve it.
 
 **Portfolio:** [christianholmdev.dk](https://christianholmdev.dk)
 
@@ -13,7 +13,7 @@ I work in healthcare operations in Copenhagen and build practical software for w
 
 ## What I build
 
-**Healthcare workflow software** — tools for instrument lookup, fault reporting, missing-instrument workflows, and operational visibility.
+**Healthcare workflow tools** — instrument lookup, fault reporting, missing-instrument workflows, and operational visibility.
 
 **Personal products** — local-first and AI-assisted applications built around recurring problems at home, with the same focus on reliability, feedback, and real use.
 
@@ -21,7 +21,7 @@ I work in healthcare operations in Copenhagen and build practical software for w
 
 ## How I work
 
-I use AI coding tools extensively for exploration and implementation, but I keep the product decisions and verification explicit. I prefer problem-first systems, small deployable steps, tests around risky behavior, and enough operational visibility to understand what happens after software ships.
+I use AI coding tools extensively for exploration and implementation, while keeping product decisions and verification explicit. I prefer problem-first systems, small deployable steps, tests around risky behavior, and enough operational visibility to understand what happens after a tool ships.
 
 ## Contact
 
